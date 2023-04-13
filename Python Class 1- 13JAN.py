@@ -4,7 +4,7 @@ import keyword
 print("My name is Karthik Raja Kothandan")
 
 
-A="Thalapathy"
+A="Thalaiva"
 print(A)
 
 printt="ad"
