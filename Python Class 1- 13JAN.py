@@ -26,5 +26,5 @@ print(name.upper())
 a,b,c=input("enter two numbers: ").split(":")
 print("value 1:" + a)
 print("value 2: "+ b)
-print('hi')
+print('hiiiiiiiiiiiiiiiiiiiiiiiiiiiii')
 
